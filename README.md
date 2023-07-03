@@ -1,4 +1,3 @@
-<img src="docs/images/Thebigbarplot.png">
 
 # HL-NTAC
 Defending against Adversarial Machine Learning Attacks using Hierarchical Learning: A case study on Network Traffic Attack Classification.
@@ -17,3 +16,6 @@ The crafting of an adversarial attack is complex, since features must be perturb
 We refer to this characteristic as \textit{functionality-preserving}, since if malicious functionality of a given input is not preserved, a model might legitimately consider the input as benign because its payload has been neutered.
 
 In this paper, we investigate how to apply adversarial learning within the network intrusion domain. Firstly, we explore the feasibility of manipulating a well-trained classifier such that a malicious attack may pass as benign. We then seek to improve the defensive capability of the classifier against such adversarial examples, through the use of hierarchical learning. Our approach reduces the potential attack surface of the classifier, hence reducing the feasibility of manipulating features such that functionality is preserved. Our results suggest that our hierarchical learning model can provide strong defense against adversarial examples, such that the performance of the hierarchical classifier when under attack is able to achieve similar results to that of the original flat model without the adversarial attack.
+
+<img src="docs/images/Thebigbarplot.png">
+
