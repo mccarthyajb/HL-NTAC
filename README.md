@@ -1,4 +1,4 @@
-<img src="docs/images/TheBigBarPlot.png">
+<img src="docs/images/Thebigbarplot.png">
 
 # HL-NTAC
 Defending against Adversarial Machine Learning Attacks using Hierarchical Learning: A case study on Network Traffic Attack Classification.
